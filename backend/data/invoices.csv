@@ -1,0 +1,51 @@
+invoice_no,client_name,client_email,amount,currency,due_date,follow_up_count,contact_person,payment_link
+INV-2024-001,Alpha Tech Solutions,accounts@alphatech.com,45000,INR,2026-05-08,0,Rohan Mehta,https://pay.demo.com/inv001
+INV-2024-002,Bright Future Pvt Ltd,billing@brightfuture.in,128000,INR,2026-05-01,1,Sneha Kapoor,https://pay.demo.com/inv002
+INV-2024-003,NextGen Retail,finance@nextgenretail.com,75500,INR,2026-04-24,2,Amit Bansal,https://pay.demo.com/inv003
+INV-2024-004,Urban Infra Projects,accounts@urbaninfra.in,210000,INR,2026-04-17,3,Neeraj Singh,https://pay.demo.com/inv004
+INV-2024-005,Smart Electronics,info@smartelectronics.in,33000,INR,2026-04-08,4,Pooja Arora,https://pay.demo.com/inv005
+INV-2024-006,BlueWave Media,payments@bluewave.com,89000,INR,2026-05-06,0,Kunal Verma,https://pay.demo.com/inv006
+INV-2024-007,Golden Traders Ltd,finance@goldentraders.in,156000,INR,2026-04-28,1,Ritika Sharma,https://pay.demo.com/inv007
+INV-2024-008,Velocity Logistics,billing@velocitylogistics.com,64000,INR,2026-05-10,0,Arjun Malhotra,https://pay.demo.com/inv008
+INV-2024-009,Visionary Systems,accounts@visionarysys.in,98000,INR,2026-04-30,2,Megha Jain,https://pay.demo.com/inv009
+INV-2024-010,GreenLeaf Foods,finance@greenleaffoods.com,47000,INR,2026-05-12,0,Ankit Sood,https://pay.demo.com/inv010
+INV-2024-011,Sample Company 11,accounts11@samplecompany11.com,67500,INR,2026-05-12,1,Contact Person 11,https://pay.demo.com/inv011
+INV-2024-012,Sample Company 12,accounts12@samplecompany12.com,70000,INR,2026-05-13,2,Contact Person 12,https://pay.demo.com/inv012
+INV-2024-013,Sample Company 13,accounts13@samplecompany13.com,72500,INR,2026-05-14,3,Contact Person 13,https://pay.demo.com/inv013
+INV-2024-014,Sample Company 14,accounts14@samplecompany14.com,75000,INR,2026-05-15,4,Contact Person 14,https://pay.demo.com/inv014
+INV-2024-015,Sample Company 15,accounts15@samplecompany15.com,77500,INR,2026-05-16,0,Contact Person 15,https://pay.demo.com/inv015
+INV-2024-016,Sample Company 16,accounts16@samplecompany16.com,80000,INR,2026-05-17,1,Contact Person 16,https://pay.demo.com/inv016
+INV-2024-017,Sample Company 17,accounts17@samplecompany17.com,82500,INR,2026-05-18,2,Contact Person 17,https://pay.demo.com/inv017
+INV-2024-018,Sample Company 18,accounts18@samplecompany18.com,85000,INR,2026-05-19,3,Contact Person 18,https://pay.demo.com/inv018
+INV-2024-019,Sample Company 19,accounts19@samplecompany19.com,87500,INR,2026-05-20,4,Contact Person 19,https://pay.demo.com/inv019
+INV-2024-020,Sample Company 20,accounts20@samplecompany20.com,90000,INR,2026-05-21,0,Contact Person 20,https://pay.demo.com/inv020
+INV-2024-021,Sample Company 21,accounts21@samplecompany21.com,92500,INR,2026-05-22,1,Contact Person 21,https://pay.demo.com/inv021
+INV-2024-022,Sample Company 22,accounts22@samplecompany22.com,95000,INR,2026-05-23,2,Contact Person 22,https://pay.demo.com/inv022
+INV-2024-023,Sample Company 23,accounts23@samplecompany23.com,97500,INR,2026-05-24,3,Contact Person 23,https://pay.demo.com/inv023
+INV-2024-024,Sample Company 24,accounts24@samplecompany24.com,100000,INR,2026-05-25,4,Contact Person 24,https://pay.demo.com/inv024
+INV-2024-025,Sample Company 25,accounts25@samplecompany25.com,102500,INR,2026-05-26,0,Contact Person 25,https://pay.demo.com/inv025
+INV-2024-026,Sample Company 26,accounts26@samplecompany26.com,105000,INR,2026-05-27,1,Contact Person 26,https://pay.demo.com/inv026
+INV-2024-027,Sample Company 27,accounts27@samplecompany27.com,107500,INR,2026-05-28,2,Contact Person 27,https://pay.demo.com/inv027
+INV-2024-028,Sample Company 28,accounts28@samplecompany28.com,110000,INR,2026-05-01,3,Contact Person 28,https://pay.demo.com/inv028
+INV-2024-029,Sample Company 29,accounts29@samplecompany29.com,112500,INR,2026-05-02,4,Contact Person 29,https://pay.demo.com/inv029
+INV-2024-030,Sample Company 30,accounts30@samplecompany30.com,115000,INR,2026-05-03,0,Contact Person 30,https://pay.demo.com/inv030
+INV-2024-031,Sample Company 31,accounts31@samplecompany31.com,117500,INR,2026-05-04,1,Contact Person 31,https://pay.demo.com/inv031
+INV-2024-032,Sample Company 32,accounts32@samplecompany32.com,120000,INR,2026-05-05,2,Contact Person 32,https://pay.demo.com/inv032
+INV-2024-033,Sample Company 33,accounts33@samplecompany33.com,122500,INR,2026-05-06,3,Contact Person 33,https://pay.demo.com/inv033
+INV-2024-034,Sample Company 34,accounts34@samplecompany34.com,125000,INR,2026-05-07,4,Contact Person 34,https://pay.demo.com/inv034
+INV-2024-035,Sample Company 35,accounts35@samplecompany35.com,127500,INR,2026-05-08,0,Contact Person 35,https://pay.demo.com/inv035
+INV-2024-036,Sample Company 36,accounts36@samplecompany36.com,130000,INR,2026-05-09,1,Contact Person 36,https://pay.demo.com/inv036
+INV-2024-037,Sample Company 37,accounts37@samplecompany37.com,132500,INR,2026-05-10,2,Contact Person 37,https://pay.demo.com/inv037
+INV-2024-038,Sample Company 38,accounts38@samplecompany38.com,135000,INR,2026-05-11,3,Contact Person 38,https://pay.demo.com/inv038
+INV-2024-039,Sample Company 39,accounts39@samplecompany39.com,137500,INR,2026-05-12,4,Contact Person 39,https://pay.demo.com/inv039
+INV-2024-040,Sample Company 40,accounts40@samplecompany40.com,140000,INR,2026-05-13,0,Contact Person 40,https://pay.demo.com/inv040
+INV-2024-041,Sample Company 41,accounts41@samplecompany41.com,142500,INR,2026-05-14,1,Contact Person 41,https://pay.demo.com/inv041
+INV-2024-042,Sample Company 42,accounts42@samplecompany42.com,145000,INR,2026-05-15,2,Contact Person 42,https://pay.demo.com/inv042
+INV-2024-043,Sample Company 43,accounts43@samplecompany43.com,147500,INR,2026-05-16,3,Contact Person 43,https://pay.demo.com/inv043
+INV-2024-044,Sample Company 44,accounts44@samplecompany44.com,150000,INR,2026-05-17,4,Contact Person 44,https://pay.demo.com/inv044
+INV-2024-045,Sample Company 45,accounts45@samplecompany45.com,152500,INR,2026-05-18,0,Contact Person 45,https://pay.demo.com/inv045
+INV-2024-046,Sample Company 46,accounts46@samplecompany46.com,155000,INR,2026-05-19,1,Contact Person 46,https://pay.demo.com/inv046
+INV-2024-047,Sample Company 47,accounts47@samplecompany47.com,157500,INR,2026-05-20,2,Contact Person 47,https://pay.demo.com/inv047
+INV-2024-048,Sample Company 48,accounts48@samplecompany48.com,160000,INR,2026-05-21,3,Contact Person 48,https://pay.demo.com/inv048
+INV-2024-049,Sample Company 49,accounts49@samplecompany49.com,162500,INR,2026-05-22,4,Contact Person 49,https://pay.demo.com/inv049
+INV-2024-050,Sample Company 50,accounts50@samplecompany50.com,165000,INR,2026-05-23,0,Contact Person 50,https://pay.demo.com/inv050
